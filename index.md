@@ -20,7 +20,7 @@ Under Review by IEEE Transactions on Intelligent Transportation Systems, 2020
 ### Patent
 1. The invention relates to a method of wearing condition detection and identification of labor protection articles based on Deep Learning, 202010197049.6, 2020  
 2. The invention relates to a lane detection method and terminal equipment based on attention mechanism in fusion network, 2020108174670, 2020  
-3.
+
 ***
 
 ### Honor
@@ -28,36 +28,10 @@ Under Review by IEEE Transactions on Intelligent Transportation Systems, 2020
 ***
 
 ### Skill
+Language: Chinese, English
+Programming: Python, MATLAB, C++, HTML
+Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git
+
 ***
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gongyan1/gongyan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
