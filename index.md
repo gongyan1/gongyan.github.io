@@ -28,9 +28,9 @@ Under Review by IEEE Transactions on Intelligent Transportation Systems, 2020
 ***
 
 ### Skill
-Language: Chinese, English
-Programming: Python, MATLAB, C++, HTML
-Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git
+Language: Chinese, English  
+Programming: Python, MATLAB, C++, HTML  
+Tools: PyTorch, TensorRT, OpenCV, PCL, LaTeX, Markdown, Git  
 
 ***
 
