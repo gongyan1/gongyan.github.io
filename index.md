@@ -18,8 +18,8 @@ Under Review by IEEE Transactions on Intelligent Transportation Systems, 2020
 ***
 
 ### Patent
-1.The invention relates to a method of wearing condition detection and identification of labor protection articles based on Deep Learning, 202010197049.6, 2020  
-2.The invention relates to a lane detection method and terminal equipment based on attention mechanism in fusion network, 2020108174670, 2020  
+1. The invention relates to a method of wearing condition detection and identification of labor protection articles based on Deep Learning, 202010197049.6, 2020  
+2. The invention relates to a lane detection method and terminal equipment based on attention mechanism in fusion network, 2020108174670, 2020  
 3.
 ***
 
