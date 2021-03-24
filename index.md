@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
-
+## Information
 Yan Gong  
 Autonomous Driving | Multimodal Fusion | Thermal Image  
 School of Vehicle and Mobility, Tsinghua University, China (Research Assistant)   
 School of Computer Science and Engineering, Northeastern University, China (Postgraduate Student)  
 Email: gongyan2020@foxmail.com / gongyan1998@gmail.com  
+
 
 ### Publication
 1. Multi-Modal Attention Guided Real-Time Lane Detection  
