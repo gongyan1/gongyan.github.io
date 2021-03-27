@@ -9,7 +9,7 @@ Email: gongyan2020@foxmail.com / gongyan1998@gmail.com
 
 ### Publication
 1. Multi-Modal Attention Guided Real-Time Lane Detection  
-Xinyu Zhang (285630), Yan Gong (296839), Zhiwei Li (291808),Xuan Liu (297606), Yiqian Lu (301032), Jun Li (286874)  
+Xinyu Zhang*, Yan Gong (Co-first author), Zhiwei Li, Xuan Liu, Yiqian Lu, Jun Li  
 Under Review by IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2020  
 2. SkipCrossNet: Adaptive Fusion for Road Segmentation  
 Xinyu Zhang*, Zhenhong Zou (Co-first author), Dafeng Jin, Yan Gong, Zhiwei Li, Jun Li  
