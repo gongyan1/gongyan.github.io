@@ -17,42 +17,219 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am currently working as a algorithm researcher in the <a href="https://www.jdl.com/IntelligenVehicle/">Autonomous Driving Division of X Research Department, JD Logistics</a>, mainly engaged in the research and development of vision and point cloud perception algorithms.  <br>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I obtained my master's degree from the School of Computer Science and Engineering, <b>Northeastern University</b>, Shenyang, China in 2023, advised by Professor <a href="http://www.cse.neu.edu.cn/2019/0312/c6641a157492/page.htm">Lu Wang (王璐)</a>. 
+I also participated in <b>Tsinghua University</b>'s joint training of graduate students, with Professor<a href="http://www.svm.tsinghua.edu.cn/essay/80/1875.html"> Xinyu Zhang (张新钰)</a> and Academician of Chinese Academy of Engineering (CAE) <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm"> Jun Li (李骏)</a> as my supervisor. 
+During the joint training period, I was responsible for the algorithm research of the perception group, as well as the integration and debugging of each module system of the unmanned vehicle in the Meng Shi Team (清华猛狮团队).
+Our team achieved significant accolades, including the gold medal in the 2021 World Intelligent Driving Challenge Extreme, first prize in the 2019 i-VISTA Automatic Driving Challenge Competition, and top honors in the City Traffic Scene Challenge Competition.
 
+<p>My research interests lie in the application of deep learning to various computer vision tasks, with a focus on:
+  <ul>
+    <li>Autonomous driving perception algorithm.</li>
+    <li>Multimodal Information Fusion.</li>
+    <li>Zero/Few-shot Learning.</li>
+  </ul>
+</p>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉 One paper is accepted by **Automotive Innovation** (中科院一区, IF=	4.8). 
+- *2024.05*: &nbsp;🎉 One paper is accepted by **ACL 2024** (CCF A). 
+- *2024.02*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Intelligent Vehicles** (中科院一区Top, IF=14). 
+- *2024.01*: &nbsp;🎉 One paper is accepted by **Engineering Applications of Artificial Intelligence** (中科院一区Top, IF=7.5). 
+- *2023.06*: &nbsp;🎉 Three papers are accepted by **IEEE Transactions on Intelligent Vehicles** (中科院一区Top, IF=14).  
+- *2023.05*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Computational Social Systems** (中科院二区, IF=4.5). 
+- *2023.03*: &nbsp;🎉 One paper is accepted by **APPLIED INTELLIGENCE** (中科院二区, IF=3.4). 
+- *2022.08*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Vehicular Technology** (中科院二区Top, IF=6.1).
+- *2021.08*: &nbsp;🎉 One paper is accepted by **ICARM 2021 Best Paper**.
+
 
 # 📝 Publications 
+<b style="color:#FF5733;">Note: *, #, and bold text indicate equal contribution, corresponding author, and myself, respectively.</b>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV 2024</div><img src='images/TCLaneNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**TCLaneNet: Task-Conditioned Lane Detection Network Driven by Vibration Information**](https://ieeexplore.ieee.org/document/10411125)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yan Gong**, Xinmin Jiang, Lu Wang#, Lisheng Xu, Jianli Lu, Hao Liu, Lei Lin, Xinyu Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+published on <b>IEEE Transactions on Intelligent Vehicles</b>
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)  -->
+[**Code**](https://github.com/gongyan1/TCLaneNet) ｜
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=TCLaneNet%3A+Task-Conditioned+Lane+Detection+Network+Driven+by+Vibration+Information&btnG=) 
+<!-- <strong><span class='show_paper_citations' data='YEI4sL4AAAAJ:Y0pCki6q_DkC'></span></strong> -->
+- To deal with occlusion and low-light conditions in the lane detection, we first propose to utilize the vibration signals generated when vehicles pass over the vibration marking lines as supervision for lane occlusion prediction, whose features are then used to adaptively adjust the weights of lane detection network to improve its performance.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2023</div><img src='images/SIFDriveNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SIFDriveNet: Speed and Image Fusion for Driving Behavior Classification Network**](https://ieeexplore.ieee.org/document/10225413)
+
+**Yan Gong**\*, Jianli Lu\*; Wenzhuo Liu\*; Zhiwei Li#; Xinmin Jiang; Xin Gao; Xingang Wu
+
+published on <b>IEEE Transactions on Computational Social Systems</b>
+
+[**Code**](https://github.com/gongyan1/SIFDriveNet) ｜
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SIFDriveNet%3A+Speed+and+Image+Fusion+for+Driving+Behavior+Classification+Network&btnG=) 
+<!-- - Driving behavior classification is an important direction in the field of social transportation systems and advanced driving assistance system (ADAS).  -->
+- We first introduce a 2D image with detailed roadside information and convert speeds into a 2D spectrogram using short-time Fourier transform (STFT) to represent their time-frequency characteristics, unifying the data space of image and speed information.
+- A tensor fusion method based on weight decomposition is proposed to fully fuse the vectors of the two modalities, achieving leading performance on UAH-DriveSet and distracted driving multimodal dataset.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AUIN 2024</div><img src='images/SkipcrossNets.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SkipcrossNets: Adaptive Skip-cross Fusion for Road Detection**](https://arxiv.org/abs/2308.12863)
+
+**Yan Gong**, Xinyu Zhang#, Hao Liu, Xinming Jiang, Zhiwei Li, Xin Gao, Lei Lin, Dafeng Jin, Jun Li, Huaping Liu
+
+published on <b>Automotive Innovation</b>
+
+<!-- [**Code**](https://github.com/gongyan1/Oblique-Convolution) ｜ -->
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SkipcrossNets%3A+Adaptive+Skip-cross+Fusion+for+Road+Detection&btnG=) 
+- To address the challenges of pedestrian detection under insufficient nighttime illumination, we propose a Feature Aggregation Module (FAM) that adaptively captures cross-channel and cross-dimensional information interactions between two modes. 
+- The proposed FAM module is embedded into a dual-stream network adapted from YOLOv5. The advantages of FANet are its small size (15 MB) and fast processing speed (8 ms per frame).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APIN 2023</div><img src='images/FANet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**A Feature Aggregation Network for Multispectral Pedestrian Detection**](https://link.springer.com/article/10.1007/s10489-023-04628-y)
+
+**Yan Gong**, Lu Wang#, Lisheng Xu 
+
+published on <b>Applied Intelligence</b>
+
+[**Code**](https://github.com/gongyan1/FANet) ｜
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+feature+aggregation+network+for+multispectral+pedestrian+detection&btnG=) 
+- To address the challenges of pedestrian detection under insufficient nighttime illumination, we propose a Feature Aggregation Module (FAM) that adaptively captures cross-channel and cross-dimensional information interactions between two modes. 
+- The proposed FAM module is embedded into a dual-stream network adapted from YOLOv5. The advantages of FANet are its small size (15 MB) and fast processing speed (8 ms per frame).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV 2023</div><img src='images/Vehicle_information_survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Multi-Modal Fusion Technology Based on Vehicle Information: A Survey**](https://ieeexplore.ieee.org/document/10104104)
+
+Xinyu Zhang, **Yan Gong#**, Jianli Lu, Jiayi Wu, Zhiwei Li, Dafeng Jin, Jun Li
+
+published on <b>IEEE Transactions on Intelligent Vehicles</b>
+
+<!-- [**Code**](https://github.com/gongyan1/FANet) ｜ -->
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Multi-Modal+Fusion+Technology+Based+on+Vehicle+Information%3A+A+Survey&btnG=) 
+- To address the challenges of pedestrian detection under insufficient nighttime illumination, we propose a Feature Aggregation Module (FAM) that adaptively captures cross-channel and cross-dimensional information interactions between two modes. 
+- The proposed FAM module is embedded into a dual-stream network adapted from YOLOv5. The advantages of FANet are its small size (15 MB) and fast processing speed (8 ms per frame).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV 2023</div><img src='images/oblique_convolution.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Oblique Convolution: A Novel Convolution Idea for Redefining Lane Detection**](https://ieeexplore.ieee.org/document/10264148)
+
+Xinyu Zhang, **Yan Gong#**, Jianli Lu, Zhiwei Li, Shixiang Li, Shu Wang, Wenzhuo Liu, Li Wang, Jun Li
+
+published on <b>IEEE Transactions on Intelligent Vehicles</b>
+
+[**Code**](https://github.com/gongyan1/Oblique-Convolution) ｜
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Oblique+Convolution%3A+A+Novel+Convolution+Idea+for+Redefining+Lane+Detection&btnG=) 
+- To address the challenges of pedestrian detection under insufficient nighttime illumination, we propose a Feature Aggregation Module (FAM) that adaptively captures cross-channel and cross-dimensional information interactions between two modes. 
+- The proposed FAM module is embedded into a dual-stream network adapted from YOLOv5. The advantages of FANet are its small size (15 MB) and fast processing speed (8 ms per frame).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='images/GLMDriveNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**GLMDriveNet: Global–local Multimodal Fusion Driving Behavior Classification Network**](https://www.sciencedirect.com/science/article/pii/S0952197623017591)
+
+Wenzhuo Liu, **Yan Gong**, Guoying Zhang#, Jianli Lu, Yunlai Zhou, Junbin Liao
+
+published on <b>Engineering Applications of Artificial Intelligence</b>
+
+[**Code**](https://github.com/gongyan1/GLMDrivenet) ｜
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GLMDriveNet%3A+Global%E2%80%93local+Multimodal+Fusion+Driving+Behavior+Classification+Network&btnG=) 
+- We propose a Global-Local Multimodal Fusion Driving Behavior Classification Network (GLMDriveNet), which accurately classifies driver behavior into normal driving, aggressive driving, and fatigued driving, achieving state-of-the-art performance on the public UAH dataset. 
+- A Global-Local Interaction Channel Attention Module (GLI-CAM) is introduced to extract effective features from roadside images and vehicle speed spectrograms, while a Multi-Scale Feature Representation Fusion Module (MS-FRFM) integrates high-scale and low-scale information, assigning varying importance to different modalities to enhance the network's focus on useful information.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVT 2022</div><img src='images/OpenMPD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**OpenMPD: An Open Multimodal Perception Dataset for Autonomous Driving**](https://ieeexplore.ieee.org/document/9682587)
+
+Xinyu Zhang\*, Zhiwei Li#\*, **Yan Gong**\*, Dafeng Jin, Jun Li, Li Wang, Yanzhang Zhu, Huaping Liu
+
+published on <b>IEEE Transactions on Vehicular Technology</b>
+
+<!-- [**Code**](https://github.com/gongyan1/SIFDriveNet) ｜ -->
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=OpenMPD%3A+An+Open+Multimodal+Perception+Dataset+for+Autonomous+Driving&btnG=) 
+- A multimodal perception benchmark for challenging examples is presented for the first time. Compared to existing datasets, OpenMPD places greater emphasis on complex urban scenarios, such as overexposed or dark environments, crowded areas, unstructured roads, and intersections. 
+- Our data collection vehicle is equipped with 6 cameras and 4 LiDARs, capturing multimodal data with a 360-degree view. We also utilize a 128-beam LiDAR to provide high-resolution point clouds for a better understanding of the 3D environment and sensor fusion. More details can be found on http://www.openmpd.com/.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/AskOneTimes.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Just Ask One More Time! Self-Agreement Improves Reasoning of Language Models in (Almost) All Scenarios**](https://arxiv.org/abs/2311.08154)
+
+Lei Lin\*, Jiayi Fu\*, Pengli Liu, Qingyang Li, **Yan Gong**\*, Junchen Wan, Fuzheng Zhang, Zhongyuan Wang, Di Zhang, Kun Gai
+
+published on <b>The 62nd Annual Meeting of the Association for Computational Linguistics</b>
+
+<!-- [**Code**](https://github.com/gongyan1/SIFDriveNet) ｜ -->
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Just+Ask+One+More+Time%21+Self-Agreement+Improves+Reasoning+of+Language+Models+in+%28Almost%29+All+Scenarios&btnG=) 
+- To address the issues of repetitiveness and local optimality caused by naive greedy decoding in chain-of-thought (CoT) prompting, we propose a general ensemble optimization method. This method is applicable to nearly all types of input problem formats and scenarios where the reasoning path answers may be known or unknown.
+- Our method demonstrates outstanding performance and exceptional generalization capabilities across six public reasoning benchmarks.
+</div>
+</div>
+
+
+
+
+
+- ``ICARM 2021 (Best Paper)`` Xinyu Zhang#\*, **Yan Gong**\*, Zhiwei Li, Xuan Liu, Shuyue Pan, and Jun Li, [Multi-modal attention guided real-time lane detection](https://ieeexplore.ieee.org/document/9536157), IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
+- ``TIV 2023 `` Zhiwei Li, Xinyu Zhang#, Chi Tian, Xin Gao, Yan Gong, Jiani Wu, Guoying Zhang, Jun Li, and Huaping Liu, [Tvg-reid: Transformer-based vehicle-graph re-identification](https://ieeexplore.ieee.org/document/10173635), IEEE Transactions on Intelligent Vehicles.
+
+# 📄 Patent
+- 一种基于显著性图的多光谱融合行人检测方法及装置，202310374850.7，第一发明人，已授权。
+-	一种图像和车速信息融合的驾驶行为分类方法及装置，CN115496978A，第二发明人，已授权。
+-	基于深度学习的劳保用品佩戴情况检测和身份识别的方法，CN111488804A，第三发明人，已授权。
+-	一种基于振动信号和RGB图像融合的语义分割方法及装置，CN114037834A，第三发明人，已授权。
+-	基于注意力机制的融合网络车道线检测方法及终端设备，CN111950467A，第四发明人，已授权。
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*, Won the Best Newcomer Award in the Autonomous Driving Department of X Divsion, JDL.
+- *2023.10*, Won the top 45 in the "Black Horse" Competition in JD.
+- *2022.06*, Won the top 10 in the 3D semantic segmentation of Waymo dataset.
+- *2021.08*, Won the "Tomorrow's Star" honorary title at Tsinghua University.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2023.06*, Joint Master's Degree, Tsinghua University, Beijing. 
+- *2020.09 - 2023.06*, Master, Northeastern University, Shenyang. 
+- *2016.09 - 2020.06*, Undergraduate, Shanxi University, Taiyuan. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.01 - 2022.10*, Apollo (Baidu), Autonomous Driving Technology Department, China.
+- *2021.11 - 2022.01*, SenseTime, Development Product Department, China.
+- *2021.07 - 2021.11*, JD, AI Research Institute, Multimedia and Video Algorithms Department, China.
