@@ -37,9 +37,9 @@ Our team achieved significant accolades, including the gold medal in the 2021 Wo
 - *2024.05*: &nbsp;🎉 One paper is accepted by **ACL 2024** (CCF A). 
 - *2024.02*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Intelligent Vehicles** (中科院一区Top, IF=14). 
 - *2024.01*: &nbsp;🎉 One paper is accepted by **Engineering Applications of Artificial Intelligence** (中科院一区Top, IF=7.5). 
-- *2023.06*: &nbsp;🎉 Three papers are accepted by **IEEE Transactions on Intelligent Vehicles** (中科院一区Top, IF=14).  
-- *2023.05*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Computational Social Systems** (中科院二区, IF=4.5). 
-- *2023.03*: &nbsp;🎉 One paper is accepted by **APPLIED INTELLIGENCE** (中科院二区, IF=3.4). 
+- *2023.06*: &nbsp;🎉 **Three papers** are accepted by **IEEE Transactions on Intelligent Vehicles** (中科院一区Top, IF=14).  
+- *2023.05*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Computational Social Systems** (中科院二区, IF=5.1). 
+- *2023.03*: &nbsp;🎉 One paper is accepted by **APPLIED INTELLIGENCE** (中科院二区, IF=5). 
 - *2022.08*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Vehicular Technology** (中科院二区Top, IF=6.1).
 - *2021.08*: &nbsp;🎉 One paper is accepted by **ICARM 2021 Best Paper**.
 
@@ -206,7 +206,7 @@ published on <b>The 62nd Annual Meeting of the Association for Computational Lin
 
 
 - ``ICARM 2021 (Best Paper)`` Xinyu Zhang#\*, **Yan Gong**\*, Zhiwei Li, Xuan Liu, Shuyue Pan, and Jun Li, [Multi-modal attention guided real-time lane detection](https://ieeexplore.ieee.org/document/9536157), IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
-- ``TIV 2023 `` Zhiwei Li, Xinyu Zhang#, Chi Tian, Xin Gao, Yan Gong, Jiani Wu, Guoying Zhang, Jun Li, and Huaping Liu, [Tvg-reid: Transformer-based vehicle-graph re-identification](https://ieeexplore.ieee.org/document/10173635), IEEE Transactions on Intelligent Vehicles.
+- ``TIV 2023 `` Zhiwei Li, Xinyu Zhang#, Chi Tian, Xin Gao, **Yan Gong**, Jiani Wu, Guoying Zhang, Jun Li, and Huaping Liu, [Tvg-reid: Transformer-based vehicle-graph re-identification](https://ieeexplore.ieee.org/document/10173635), IEEE Transactions on Intelligent Vehicles.
 
 # 📄 Patent
 - 一种基于显著性图的多光谱融合行人检测方法及装置，202310374850.7，第一发明人，已授权。
@@ -231,5 +231,5 @@ published on <b>The 62nd Annual Meeting of the Association for Computational Lin
 
 # 💻 Internships
 - *2022.01 - 2022.10*, Apollo (Baidu), Autonomous Driving Technology Department, China.
-- *2021.11 - 2022.01*, SenseTime, Development Product Department, China.
+- *2021.11 - 2022.01*, Megvii, Development Product Department, China.
 - *2021.07 - 2021.11*, JD, AI Research Institute, Multimedia and Video Algorithms Department, China.
