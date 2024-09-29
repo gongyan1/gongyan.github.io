@@ -33,6 +33,7 @@ Our team achieved significant accolades, including the gold medal in the 2021 Wo
 </p>
 
 # 🔥 News
+- *2024.08* (*Pinned*): &nbsp;🔥🔥🔥 I'm excited to announce the release of a new repository on GitHub focused on various attention mechanisms! This repo is designed to make it easier to experiment with and integrate different attention modules, offering a plug-and-play approach to boost performance across tasks. <b>Check it out and feel free to get involved:</b> [Attention-Mechanisms](https://github.com/gongyan1/Attention-Mechanism-Pytorch)
 - *2024.10*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Geoscience and Remote Sensing** (中科院一区Top, IF=7.5). 
 - *2024.07*: &nbsp;🎉 One paper is accepted by **Automotive Innovation** (中科院一区, IF=	4.8). 
 - *2024.05*: &nbsp;🎉 One paper is accepted by **ACL 2024** (CCF A). 
