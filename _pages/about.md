@@ -33,6 +33,7 @@ Our team achieved significant accolades, including the gold medal in the 2021 Wo
 </p>
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Geoscience and Remote Sensing** (中科院一区Top, IF=7.5). 
 - *2024.07*: &nbsp;🎉 One paper is accepted by **Automotive Innovation** (中科院一区, IF=	4.8). 
 - *2024.05*: &nbsp;🎉 One paper is accepted by **ACL 2024** (CCF A). 
 - *2024.02*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Intelligent Vehicles** (中科院一区Top, IF=14). 
@@ -202,6 +203,21 @@ published on <b>The 62nd Annual Meeting of the Association for Computational Lin
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/SparseDet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10695153)
+
+Lin Liu, Ziying Song, Qiming Xia, Feiyang Jia, Caiyan Jia, Lei Yang, <b>Yan Gong</b>, Hongyu Pan
+
+published on <b>IEEE Transactions on Geoscience and Remote Sensing</b>
+
+<!-- [**Code**](https://github.com/gongyan1/SIFDriveNet) ｜ -->
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SparseDet%3A+A+Simple+and+Effective+Framework+for+Fully+Sparse+LiDAR-based+3D+Object+Detection&btnG=) 
+- SparseDet introduces a novel approach to LiDAR-based sparse 3D object detection by using sparse queries as object proxies, enhancing contextual information aggregation through its Local Multi-scale Feature Aggregation (LMFA) and Global Feature Aggregation (GFA) modules. 
+- Experiments show that SparseDet outperforms the previous best sparse detector, VoxelNeXt, by 2.2% mAP and achieves a faster inference speed of 13.5 FPS on nuScenes, while also surpassing the classical FSDV2 method in both accuracy and speed.
+</div>
+</div>
 
 
 
@@ -214,7 +230,6 @@ published on <b>The 62nd Annual Meeting of the Association for Computational Lin
 -	基于深度学习的劳保用品佩戴情况检测和身份识别的方法，CN111488804A，第三发明人，已授权。
 -	一种基于振动信号和RGB图像融合的语义分割方法及装置，CN114037834A，第三发明人，已授权。
 -	基于注意力机制的融合网络车道线检测方法及终端设备，CN111950467A，第四发明人，已授权。
-
 
 # 🎖 Honors and Awards
 - *2024.02*, Won the Best Newcomer Award in the Autonomous Driving Department of X Divsion, JDL.
