@@ -34,9 +34,10 @@ Our team achieved significant accolades, including the gold medal in the 2021 Wo
 
 # 🔥 News
 - *2024.08* (*Pinned*): &nbsp;🔥🔥🔥 I'm excited to announce the release of a new repository on GitHub focused on various attention mechanisms! This repo is designed to make it easier to experiment with and integrate different attention modules, offering a plug-and-play approach to boost performance across tasks. <b>Check it out and feel free to get involved:</b> [Attention-Mechanisms](https://github.com/gongyan1/Attention-Mechanism-Pytorch)
+- *2025.01*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Intelligent Transportation Systems** (中科院一区Top, IF=7.9). 
 - *2024.10*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Geoscience and Remote Sensing** (中科院一区Top, IF=7.5). 
 - *2024.07*: &nbsp;🎉 One paper is accepted by **Automotive Innovation** (中科院一区, IF=	4.8). 
-- *2024.05*: &nbsp;🎉 One paper is accepted by **ACL 2024** (CCF A). 
+- *2024.05*: &nbsp;🎉 One paper is accepted by **The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)** (CCF A). 
 - *2024.02*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Intelligent Vehicles** (中科院一区Top, IF=14). 
 - *2024.01*: &nbsp;🎉 One paper is accepted by **Engineering Applications of Artificial Intelligence** (中科院一区Top, IF=7.5). 
 - *2023.06*: &nbsp;🎉 **Three papers** are accepted by **IEEE Transactions on Intelligent Vehicles** (中科院一区Top, IF=14).  
@@ -48,6 +49,25 @@ Our team achieved significant accolades, including the gold medal in the 2021 Wo
 
 # 📝 Publications 
 <b style="color:#FF5733;">Note: *, #, and bold text indicate equal contribution, corresponding author, and myself, respectively.</b>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/IAF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Steering Angle-Guided Multimodal Fusion Lane Detection for Autonomous Driving**](https://ieeexplore.ieee.org/document/10812657)
+
+**Yan Gong**, Xinyu Zhang#, Jianli Lu, Xinmin Jiang, Zichen Wang, Hao Liu, Zhiwei Li, Li Wang, Qingshan Yang, Xingang Wu
+
+published on <b>IEEE Transactions on Intelligent Transportation Systems</b>
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)  -->
+[**Code**](https://github.com/gongyan1/IAFNet) ｜
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Steering+Angle-Guided+Multimodal+Fusion+Lane+Detection+for+Autonomous+Driving&btnG=) 
+<!-- <strong><span class='show_paper_citations' data='YEI4sL4AAAAJ:Y0pCki6q_DkC'></span></strong> -->
+- We are the first work to introduce steering angle in-formation into lane detection, which adopts LIA-CAM to fuse steering angle features with image features, allowing the network to exploit the implicit relationship between the two to assist lane detection in adverse lighting environments. 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV 2024</div><img src='images/TCLaneNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -204,6 +224,22 @@ published on <b>The 62nd Annual Meeting of the Association for Computational Lin
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICARM 2021 Best Paper</div><img src='images/ICARM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Multi-modal attention guided real-time lane detection**](https://ieeexplore.ieee.org/document/9536157)
+
+Xinyu Zhang#*, <b>Yan Gong*</b>, Zhiwei Li, Xuan Liu, Shuyue Pan and Jun Li
+
+published on <b>IEEE International Conference on Advanced Robotics and Mechatronics </b>
+
+<!-- [**Code**](https://github.com/gongyan1/SIFDriveNet) ｜ -->
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Multi-modal+attention+guided+real-time+lane+detection&btnG=) 
+- We propose an effective real-time model for lane detection, using a fusion strategy to compensate for the limitations of single  mode  detection  and  applying  multi-frame  input  to solve  the  practical  problems  such  as vehicles  obstruction and mark degradation.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/SparseDet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -221,16 +257,28 @@ published on <b>IEEE Transactions on Geoscience and Remote Sensing</b>
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV 2023</div><img src='images/TVGReID.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- ``ICARM 2021 (Best Paper)`` Xinyu Zhang#\*, **Yan Gong**\*, Zhiwei Li, Xuan Liu, Shuyue Pan, and Jun Li, [Multi-modal attention guided real-time lane detection](https://ieeexplore.ieee.org/document/9536157), IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
-- ``TIV 2023 `` Zhiwei Li, Xinyu Zhang#, Chi Tian, Xin Gao, **Yan Gong**, Jiani Wu, Guoying Zhang, Jun Li, and Huaping Liu, [Tvg-reid: Transformer-based vehicle-graph re-identification](https://ieeexplore.ieee.org/document/10173635), IEEE Transactions on Intelligent Vehicles.
+[**Tvg-reid: Transformer-based vehicle-graph re-identification**](https://ieeexplore.ieee.org/document/10173635)
+
+Zhiwei Li, Xinyu Zhang#, Chi Tian, Xin Gao, <b>Yan Gong</b>, Jiani Wu, Guoying Zhang, Jun Li, and Huaping Liu
+
+published on <b>IEEE Transactions on Intelligent Vehicles</b>
+
+<!-- [**Code**](https://github.com/gongyan1/SIFDriveNet) ｜ -->
+[**Cite**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Tvg-reid%3A+Transformer-based+vehicle-graph+re-identification&btnG=) 
+- We propose a backbone network for vehicle re-identification that leverages CNN and Transformer feature extraction advantages, achieving superior performance by extracting detailed image features, while a vehicle knowledge graph transfer network enhances information correlation across different vehicle types.
+</div>
+</div>
+
 
 # 📄 Patent
-- 一种基于显著性图的多光谱融合行人检测方法及装置，202310374850.7，第一发明人，已授权。
--	一种图像和车速信息融合的驾驶行为分类方法及装置，CN115496978A，第二发明人，已授权。
--	基于深度学习的劳保用品佩戴情况检测和身份识别的方法，CN111488804A，第三发明人，已授权。
--	一种基于振动信号和RGB图像融合的语义分割方法及装置，CN114037834A，第三发明人，已授权。
--	基于注意力机制的融合网络车道线检测方法及终端设备，CN111950467A，第四发明人，已授权。
+- 一种基于显著性图的多光谱融合行人检测方法及装置, 202310374850.7, 第一发明人，已授权。
+-	一种图像和车速信息融合的驾驶行为分类方法及装置, CN115496978A, 第二发明人, 已授权。
+-	基于深度学习的劳保用品佩戴情况检测和身份识别的方法, CN111488804A, 第三发明人, 已授权。
+-	一种基于振动信号和RGB图像融合的语义分割方法及装置, CN114037834A, 第三发明人, 已授权。
+-	基于注意力机制的融合网络车道线检测方法及终端设备, CN111950467A, 第四发明人, 已授权。
 
 # 🎖 Honors and Awards
 - *2024.02*, Won the Best Newcomer Award in the Autonomous Driving Department of X Divsion, JDL.
